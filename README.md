@@ -1,0 +1,2 @@
+# IITISoC2022
+IITISoC wiki for IVDC Club
