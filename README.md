@@ -3,20 +3,20 @@
 We at the IVDC Club are elated to be part of IITISoC '22 for the first time ever! IITISoC is an excellent opportunity for the students of IIT Indore to enhance your skills and get started with Open-Source Contribution. We present to you projects in Autonomous Driving, Industry 4.0, Autonomous Underwater Vehicles (AUVs) and Unmanned Aerial Vehicles (UAVs).
 
 ## Contents
-* Autonomous Driving: Self-Driving Cars and ADAS
-    1. Autopilot system for _Tesla_ cars: BEGINNER
-    2. Autonomous Valet Parking: INTERMEDIATE
-    3. AI4CARS: ML package for self-driving cars: ADVANCED
-* Smart Warehouse Transportation (Industry 4.0)
-    1. AGV - Autonomous Ground Vehicle: BEGINNER
-    2. AGV Manipulator Arm Coordination: INTERMEDIATE
-    3. LiDAR Obstacle Avoidance Robots: ADVANCED
-* Autonomous Underwater Vehicles (AUV)
-    1. Autonomous Submarine Navigation: INTERMEDIATE
-* Unmanned Aerial Vehicles
-    1. Last-Mile Delivery Drones: INTERMEDIATE
-    2. Aerial Surveying in IIT Indore: INTERMEDIATE
-    3. Aerial Mapping and GIS: ADVANCED
+* [Autonomous Driving: Self-Driving Cars and ADAS](#autonomous-driving-self-driving-cars-and-adas)
+    * [Autopilot system for _Tesla_ cars](#1-autopilot-system-for-tesla-cars-beginner)
+    * [Autonomous Valet Parking](#2-autonomous-valet-parking-intermediate)
+    * [AI4CARS: ML package for self-driving cars](#3-ai4cars-ml-package-for-self-driving-cars-advanced)
+* [Smart Warehouse Transportation (Industry 4.0)](#smart-warehouse-transportation-industry-40)
+    * [AGV - Autonomous Ground Vehicle](#1-agv---autonomous-ground-vehicle-beginner)
+    * [AGV Manipulator Arm Coordination](#2-agv-manipulator-arm-coordination-intermediate)
+    * [LiDAR Obstacle Avoidance Robots](#3-lidar-obstacle-avoidance-robots-advanced)
+* [utonomous Underwater Vehicles (AUV)](#autonomous-underwater-vehicles-auv)
+    * [Autonomous Submarine Navigation](#1-autonomous-submarine-navigation-intermediate)
+* [Unmanned Aerial Vehicles](#unmanned-aerial-vehicles)
+    * [Last-Mile Delivery Drones](#1-last-mile-delivery-drones-intermediate)
+    * [Aerial Surveying in IIT Indore](#2-aerial-surveying-in-iit-indore-intermediate)
+    * [Aerial Mapping and GIS](#3-aerial-mapping-and-gis-advanced)
 
 ## Autonomous Driving: Self-Driving Cars and ADAS
 
