@@ -1,6 +1,23 @@
 # IVDC's Projects for IITISoC '22
 
 We at the IVDC Club are elated to be part of IITISoC '22 for the first time ever! IITISoC is an excellent opportunity for the students of IIT Indore to enhance your skills and get started with Open-Source Contribution. We present to you projects in Autonomous Driving, Industry 4.0, Autonomous Underwater Vehicles (AUVs) and Unmanned Aerial Vehicles (UAVs).
+
+## Contents
+* Autonomous Driving: Self-Driving Cars and ADAS
+    1. Autopilot system for _Tesla_ cars: BEGINNER
+    2. Autonomous Valet Parking: INTERMEDIATE
+    3. AI4CARS: ML package for self-driving cars: ADVANCED
+* Smart Warehouse Transportation (Industry 4.0)
+    1. AGV - Autonomous Ground Vehicle: BEGINNER
+    2. AGV Manipulator Arm Coordination: INTERMEDIATE
+    3. LiDAR Obstacle Avoidance Robots: ADVANCED
+* Autonomous Underwater Vehicles (AUV)
+    1. Autonomous Submarine Navigation: INTERMEDIATE
+* Unmanned Aerial Vehicles
+    1. Last-Mile Delivery Drones: INTERMEDIATE
+    2. Aerial Surveying in IIT Indore: INTERMEDIATE
+    3. Aerial Mapping and GIS: ADVANCED
+
 ## Autonomous Driving: Self-Driving Cars and ADAS
 
 
@@ -25,7 +42,7 @@ change lanes and avoid other cars in the lane.
 ### 2. Autonomous Valet Parking: INTERMEDIATE
 
 **Description**: Autonomous valet parking requires the vehicle
-to perceive, plan and execute the necessary motion to cars
+to perceive, plan aSmart Warehouse Transportation (Industry 4.0)nd execute the necessary motion to cars
 in parking areas. The sensors on the vehicle provide the
 vehicle with information about its current position and the
 current conditions of its surrounding environment. Using
